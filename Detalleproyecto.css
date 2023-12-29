@@ -1,0 +1,12 @@
+.completo{
+    background-color:  #c1c1c1;
+    text-align: center;
+}
+
+#texto{
+    font-size: 20px;
+    font-family: Arial;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+}

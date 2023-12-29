@@ -1,0 +1,69 @@
+.completo{
+ background-color:  #c1c1c1;
+}
+
+#encabezado{
+    background-color: hsl(128, 44%, 54%);
+    font-family: Arial;
+}
+
+img.image{
+    border: 5px dashed var(--secundary-color);
+    box-shadow: 0px 6px 10px 1px rgba(0,0,0,1);
+    position: absolute;
+    right: 25%;
+    top: 7%;
+    
+}
+.OneColumn{
+    width: 50%;
+}
+
+#xperence{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#hobbies{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.TwoColumn{
+    width: 600px;
+    float: right ;
+    position: relative;
+    top: -270px;
+}
+
+#studies{
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#tecnicas{
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#intereses{
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.TreeColumn{
+    width: 5cm;
+    height: 300px;
+    right: -5cm;
+    position:relative;
+    top: 40px;
+
+}
+
+.UltimaParte{
+    position: absolute;
+    right: 45%;
+    font-size: 20px;
+    font-family: cursive;
+    top: 21.5cm;
+}
