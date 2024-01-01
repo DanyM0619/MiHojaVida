@@ -52,7 +52,7 @@ img.image{
 }
 
 .TreeColumn{
-    width: 5cm;
+    width: 15cm;
     height: 300px;
     right: -5cm;
     position:relative;
@@ -62,8 +62,50 @@ img.image{
 
 .UltimaParte{
     position: absolute;
-    right: 45%;
+    right: 15%;
     font-size: 20px;
     font-family: cursive;
     top: 21.5cm;
+}
+
+
+
+
+.form {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ececec;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#email {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#message {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    width: 13cm;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#button {
+    background-color: #0055a4;
+    position:relative;
+    left: 5cm;
+    margin: 15px;
 }
