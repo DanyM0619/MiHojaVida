@@ -109,3 +109,13 @@ label {
     left: 5cm;
     margin: 15px;
 }
+
+#addSkill{
+    font-size: 18px;
+    font-family:cursive;
+}
+
+#addEmail{
+    font-size: 18px;
+    font-family: cursive;
+}
