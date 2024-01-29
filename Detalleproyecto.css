@@ -10,3 +10,11 @@
     margin-right: 25%;
     text-align: justify;
 }
+
+#calificar{
+    width: 4.5cm;
+    padding: 3.5px;
+    font-size: 18px;
+    font-family: cursive;
+    margin-block-end: 20px;
+}
